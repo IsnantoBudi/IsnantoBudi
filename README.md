@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=150&section=header&text=Halo,%20Saya%20Isnanto%20Budi%20👋&fontSize=40&animation=fadeIn" />
 </p>
 
-### 👨‍💻 Full-stack Programmer | Teacher | Tech Enthusiast
+### 👨‍💻 Full-stack Programmer | Tech Enthusiast
 
 Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web yang efisien dan skalabel. Sebagai pendidik, saya juga aktif berbagi pengetahuan teknis dan terus mengeksplorasi potensi AI dalam mempercepat proses pengembangan.
 
