@@ -2,42 +2,51 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=150&section=header&text=Halo,%20Saya%20Isnanto%20Budi%20👋&fontSize=40&animation=fadeIn" />
 </p>
 
-### 👨‍💻 Full-stack Programmer | Tech Enthusiast
+### 👨‍💻 Full-Stack & Mobile Developer
+**Spesialis Aplikasi Enterprise, SaaS, dan Insurance Tech**
 
-Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web yang efisien dan skalabel. Sebagai pendidik, saya juga aktif berbagi pengetahuan teknis dan terus mengeksplorasi potensi AI dalam mempercepat proses pengembangan.
-
----
-
-### 🚀 Fokus Saat Ini
-Saya sedang membangun **Real-time Collaborative Task Management App** sebagai bagian dari portofolio utama saya.
-- **Frontend:** Next.js
-- **Backend:** Golang
-- **Database:** TiDB
-- **Status:** Optimasi koneksi WebSocket antara Vercel & Railway.
+Saya adalah Full-Stack Developer dengan pengalaman 3+ tahun dan telah menyelesaikan 20+ proyek. Saya berfokus pada pembangunan sistem yang berperforma tinggi, estetik, dan berdampak bagi bisnis.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Tentang Saya
+- 🏢 **Full-Stack Developer** di **PT. Bakti Tekno Mandiri** (Maret 2023 – Sekarang).
+- 🛠️ Mengembangkan panel admin berbasis **Angular** dan aplikasi mobile dengan **Flutter**.
+- ⚙️ Berpengalaman mengintegrasikan **REST API** untuk pertukaran data yang konsisten pada web dan mobile.
+- 👨‍🏫 Aktif sebagai pendidik dan antusias terhadap perkembangan ekosistem teknologi terbaru.
+
+---
+
+### 💻 Keahlian Teknis
+- **Frontend:** Angular (90%), Vue.js, React, Next.js, TypeScript, HTML/CSS.
+- **Mobile:** Flutter (90%), Dart, Android Development.
+- **Backend & DB:** Go (Golang), Node.js, SQL, REST API Integration.
+- **Tools:** Git, Tailwind CSS, AI-Powered Workflow.
+
+---
+
+### 📂 Proyek Unggulan
+- **TenantMaster Cloud:** Platform manajemen multi-tenant SaaS dengan arsitektur microservices (Next.js, Go, PostgreSQL).
+- **Sistem Manajemen Asuransi (Web):** Core system untuk administrasi polis dan klaim dengan RBAC (Angular, TypeScript).
+- **Aplikasi Asuransi (Mobile):** Solusi e-polis digital dan klaim real-time (Flutter, Dart).
+- **Manajemen Sekolah:** Sistem komprehensif untuk administrasi pendidikan.
+
+---
+
+### 📊 Statistik GitHub
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsnantoBudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsnantoBudi&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-**AI & Productivity Assistant:**
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Assistant-Enabled-brightgreen?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+> *Catatan: Jika statistik di atas masih tidak muncul, Anda bisa mencoba membukanya kembali setelah beberapa saat (masalah teknis pada server penyedia statistik).*
 
 ---
 
 ### 📫 Hubungi Saya
-- 🌐 **Portfolio:** [isnantobudi.online](https://isnantobudi.online)
+- 🌐 **Website:** [isnantobudi.online](https://www.isnantobudi.online/)
 - 💼 **LinkedIn:** [Isnanto Budi Nurrahman](https://www.linkedin.com/in/isnanto-budi/)
-- 🆔 **Initials:** IB
+- 🆔 **Initial:** IB
 
 ---
 <p align="center">
