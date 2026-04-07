@@ -34,14 +34,6 @@ Saya sedang membangun **Real-time Collaborative Task Management App** sebagai ba
 
 ---
 
-### 📊 Statistik GitHub
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsnantoBudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsnantoBudi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Hubungi Saya
 - 🌐 **Portfolio:** [isnantobudi.online](https://isnantobudi.online)
 - 💼 **LinkedIn:** [Isnanto Budi Nurrahman](https://www.linkedin.com/in/isnanto-budi/)
