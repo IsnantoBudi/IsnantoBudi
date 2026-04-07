@@ -34,13 +34,12 @@ Saya adalah Full-Stack Developer dengan pengalaman 3+ tahun dan telah menyelesai
 ---
 
 ### 📊 Statistik GitHub
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsnantoBudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsnantoBudi&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsnantoBudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik IsnantoBudi" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsnantoBudi&layout=compact&theme=tokyonight" alt="Bahasa IsnantoBudi" />
 </p>
-
-> *Catatan: Jika statistik di atas masih tidak muncul, Anda bisa mencoba membukanya kembali setelah beberapa saat (masalah teknis pada server penyedia statistik).*
-
 ---
 
 ### 📫 Hubungi Saya
