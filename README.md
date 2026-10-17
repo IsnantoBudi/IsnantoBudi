@@ -1,125 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=150&section=header&text=Halo,%20Saya%20Isnanto%20Budi%20👋&fontSize=40&animation=fadeIn" />
-</p>
+# Isnanto Budi Nurrahman
 
-### 👨‍💻 Full-Stack & Mobile Developer
-**Spesialis Aplikasi Enterprise, SaaS, dan Insurance Tech**
+Full-Stack and Mobile Engineer specializing in Enterprise SaaS, Insurance Technology, and Distributed Systems.
 
-Saya adalah Full-Stack Developer dengan pengalaman 3+ tahun dan telah menyelesaikan 20+ proyek. Saya berfokus pada pembangunan sistem yang berperforma tinggi, estetik, dan berdampak bagi bisnis.
+Focused on architecting scalable web applications, cross-platform mobile clients, and backend services with strict data integrity, role-based access control, and predictable system performance.
 
 ---
 
-### 🚀 Tentang Saya
-- 🏢 **Full-Stack Developer** di **PT. Bakti Tekno Mandiri** (Maret 2023 – Sekarang).
-- 🛠️ Mengembangkan panel admin berbasis **Angular** dan aplikasi mobile dengan **Flutter**.
-- ⚙️ Berpengalaman mengintegrasikan **REST API** untuk pertukaran data yang konsisten pada web dan mobile.
-- 👨‍🏫 Aktif sebagai antusias terhadap perkembangan ekosistem teknologi terbaru.
+## Technical Focus
+
+- **Languages:** Go, Java, TypeScript, Dart, SQL
+- **Frontend & Mobile:** Angular, Flutter, Next.js, Vue.js, Tailwind CSS
+- **Backend & APIs:** Go, Java (Spring), Node.js, RESTful APIs, Microservices Architecture
+- **Databases & Storage:** PostgreSQL, MySQL, Redis
+- **Infrastructure & Tooling:** Docker, Linux, Git, CI/CD Pipelines, Postman, Swagger
 
 ---
 
-### 💻 Keahlian Teknis
-- **Frontend:** Angular, Vue.js, React, Next.js, TypeScript, HTML/CSS.
-- **Mobile:** Flutter, Dart, Android Development.
-- **Backend & DB:** Java, Go (Golang), Node.js, Mysql, Postgree SQL, SQL, REST API Integration.
-- **Tools:** Git, Tailwind CSS, Subversion, Postman, Swagger, Jira, Intelij, Vs Code, Antigravity, Claude Code, Vercel, railway.
+## Engineering Experience
+
+### PT. Bakti Tekno Mandiri
+**Full-Stack Developer** | *March 2023 – Present*
+
+- Architect and maintain enterprise administrative portals using Angular and TypeScript.
+- Build and deploy production-grade cross-platform mobile applications using Flutter and Dart.
+- Implement REST API contracts and backend integrations ensuring data consistency across web and mobile platforms.
+- Establish strict typing, role-based access control (RBAC), and transactional workflows for enterprise client operations.
 
 ---
 
-### 📂 Proyek Unggulan
+## Production Systems
 
-<details open>
-<summary><b>1. Enterprise & SaaS Solutions</b></summary>
-<br>
+### Insurance Core Management System
+Enterprise web application for insurance policy administration, claim lifecycle management, and underwriter workflows.
 
-> Proyek-proyek ini berfokus pada skalabilitas, efisiensi data, dan arsitektur microservices.
+- **Domain:** Insurance Tech / Enterprise Administration
+- **Architecture:** Component-driven frontend integrated with transactional REST backend services.
+- **Key Responsibilities:** Implemented complex policy status state machines, role-based approval pipelines, and audit-logged claim tracking.
+- **Technologies:** Angular, TypeScript, PostgreSQL, REST APIs
 
-- **🚀 TenantMaster Cloud** Platform manajemen multi-tenant untuk aplikasi SaaS dengan arsitektur microservices B2B.  
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
+### TenantMaster Cloud
+Multi-tenant SaaS management platform designed for centralized enterprise subscription and client organization management.
 
-- **🖥️ Sistem Manajemen Asuransi (Web)** Core system manajemen asuransi untuk administrasi polis, klaim, dan Role-Based Access Control (RBAC).  
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_API-gray?style=for-the-badge&logo=postman" />
-  </p>
+- **Domain:** Enterprise SaaS / Multi-Tenant Architecture
+- **Architecture:** Microservices-oriented backend with tenant data isolation and unified API gateway.
+- **Key Responsibilities:** Designed tenant provisioning flows, database-level schema separation, and administrative telemetry dashboards.
+- **Technologies:** Next.js, Tailwind CSS, Go, PostgreSQL
 
-- **🏫 Sistem Manajemen Sekolah** Sistem manajemen sekolah komprehensif untuk administrasi dan siswa.  
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Web_Development-316192?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Database_Management-4479A1?style=for-the-badge" />
-  </p>
+### Academic Administration Management System
+Comprehensive management platform managing student registries, academic grading schedules, and institutional records.
 
-</details>
-
-<details>
-<summary><b>2. Real-time, Mobile & AI Proyek</b></summary>
-<br>
-
-> Proyek-proyek ini menonjolkan keahlian saya dalam integrasi WebSocket, pengembangan mobile cross-platform, dan pemanfaatan Generative AI.
-
-- **SyncBoard** Real-time Collaborative Task Board dengan integrasi WebSockets dan database terdistribusi TiDB.  
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/TiDB-gray?style=for-the-badge&logo=cockroachlabs" />
-    <img src="https://img.shields.io/badge/WebSockets-gray?style=for-the-badge&logo=socketdotio" />
-  </p>
-  
-- **📱 Aplikasi Asuransi (Mobile)** Aplikasi mobile khusus klien asuransi untuk akses e-polis digital dan pengajuan klaim secara real-time.  
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_API-gray?style=for-the-badge&logo=postman" />
-  </p>
-
-- **AjarVisual** Platform pembuatan lembar kerja (worksheet) pendidikan secara otomatis berbasis AI. Menghasilkan soal dan ilustrasi unik untuk mendukung proses belajar mengajar.  
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/TiDB-gray?style=for-the-badge&logo=cockroachlabs" />
-    <img src="https://img.shields.io/badge/Gemini_AI-007ACC?style=for-the-badge&logo=google" />
-    <img src="https://img.shields.io/badge/Pollinations_AI-gray?style=for-the-badge" />
-  </p>
-
-</details>
+- **Domain:** Education Tech / Institutional Management
+- **Key Responsibilities:** Developed relational schema for student data tracking and role-segregated interfaces for faculty and administrative staff.
+- **Technologies:** Web Client, Relational Database Management, REST APIs
 
 ---
 
-### 📊 Statistik GitHub
+## Contact & Profiles
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsnantoBudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik IsnantoBudi" />
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsnantoBudi&layout=compact&theme=tokyonight" alt="Bahasa IsnantoBudi" />
-</p>
----
-### 📬 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/isnanto-budi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.isnantobudi.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:isnantobudi0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" />
-</p>
+- **Website:** [isnantobudi.online](https://www.isnantobudi.online/)
+- **LinkedIn:** [linkedin.com/in/isnanto-budi](https://www.linkedin.com/in/isnanto-budi/)
+- **Email:** [isnantobudi0@gmail.com](mailto:isnantobudi0@gmail.com)
+- **GitHub:** [github.com/IsnantoBudi](https://github.com/IsnantoBudi)
+- **Location:** Klaten, Central Java, Indonesia
